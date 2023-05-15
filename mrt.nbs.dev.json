@@ -11,6 +11,12 @@
       "fingerprint" : "FkJNrQmRfJ5P7piCNikFZoQve9G9UOEZvuiYZF0Kuw0=",
       "expires" : 1707004799,
       "signature" : "MEQCIHRoyNYZ3rtHbgV2QAm6tYgeiT4lMQP15H5Uzhzalsp5AiA8GCSJBELEw/bdvC8+vauyW2+RWi9/p0dhgqKEuWRyuA=="
+    },
+    {
+      "name" : "s-mrtj-mobile-app-core.nbs.dev",
+      "fingerprint" : "pC73SgOHsqb3m0e64l6hnQUGcqwXoqCpeQsEisX8RP8=",
+      "expires" : 1691276677,
+      "signature" : "MEYCIQCoQRtM2bVnS8jkc94Yv+asSsbEx30NmnhkMKEJb1SflwIhAIyIZG5d8BQvJr6feQRj2g6sWqYQZqO7Lb0sgEr1+AUQ"
     }
   ]
 }
